@@ -110,7 +110,7 @@ hr {
 
 header {
   text-align: center;
-  background-image: url(download.jpg);
+  background-image: url(download.png);
   background-size: cover;
   color: var(--white-section-bgc);
   min-height: 265px;
