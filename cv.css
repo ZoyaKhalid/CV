@@ -84,15 +84,16 @@ h2 {
 
 /*th container of each section in each pallet */
 
-
-  .content-wrap {
-  background-color: white;
-  padding: 60px 40px;
-  margin: 30px auto;
-  border-radius: 10px;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
-
-}
+.content-wrap {
+  max-width: 800px;
+  /* if the screen is big the width will be 800px but if it get smaller the width will shrink */
+  width: 85%;
+  /* to make the content don't stick in the viewport left side */
+  margin: 0 auto;
+  /*centralize the box*/
+  padding: 60px 0 60px;
+  /*vertical separator*/
+ } 
 
 /* the cute hr between items */
 hr {
