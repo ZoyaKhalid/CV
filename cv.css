@@ -84,6 +84,13 @@ h2 {
 
 /*th container of each section in each pallet */
 
+.cv-container {
+  max-width: 1000px;        /* Good for laptops/desktops */
+  width: 100%;
+  margin: 0 auto;           /* Center the container */
+  padding: 20px;
+}
+
 .content-wrap {
   max-width: 800px;
   /* if the screen is big the width will be 800px but if it get smaller the width will shrink */
