@@ -7,5 +7,5 @@ A hosted digital CV website on GitHub Pages with:
 3. Skills 
 4. Academic Projects 
 
-[**Project 1**](https://ZoyaKhalid.github.io/Spendo/)
-[**Project 2**](https://ZoyaKhalid.github.io/Eventify/)
+[**Project 1**](https://github.com/ZoyaKhalid/Spendo)
+[**Project 2**](https://github.com/ZoyaKhalid/Eventify)
